@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://dnrpatrick.github.io/readme-78qft2/sitemap.xml
